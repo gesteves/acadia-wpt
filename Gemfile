@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+ruby '2.2.0'
+
+gem 'sinatra'
+gem 'thin'
+gem 'redis'
+gem 'rake'
+gem 'dotenv'
+gem 'foreman'
+gem 'httparty'
